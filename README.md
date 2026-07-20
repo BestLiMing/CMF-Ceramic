@@ -4,9 +4,15 @@ This project focuses on the digital simulation of ceramic CMF (Color, Material &
 
 # CorelDRAW File Download link
 
-[cdr](https://drive.google.com/file/d/1N7keFz4ceLU25zCgZeLZpF6Jste1ob3a/view?usp=drive_link)
+[software link](https://drive.google.com/file/d/1N7keFz4ceLU25zCgZeLZpF6Jste1ob3a/view?usp=drive_link)
 
-## interface
+# Run
+
+Host Software: CorelDRAW
+Minimum Supported Version: CorelDRAW X7
+Compatible Versions: CorelDRAW X7, X8, 2018, 2019, 2020, 2021, 2022, 2023, 2024 and all later higher versions
+
+# interface
 
 interface1: 
 
