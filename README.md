@@ -43,3 +43,8 @@ interface2:
 ## Step5:
 
 <img src="assets/step5.jpg" width="800" alt="step 5">
+
+# License
+
+Copyright © 2026 Industrial Design Research Institute, Zhejiang University of Technology. All rights reserved.
+This software and its supporting documents, images, codes and auxiliary resources are protected by copyright laws. Without written authorization from the Industrial Design Research Institute, Zhejiang University of Technology, any copying, modification, redistribution, commercial use and secondary development are prohibited.
