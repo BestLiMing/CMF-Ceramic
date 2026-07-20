@@ -10,30 +10,30 @@ This project focuses on the digital simulation of ceramic CMF (Color, Material &
 
 interface1: 
 
-<img src="assets/interface1.jpg" width="600" alt="interface 1">
+<img src="assets/interface1.jpg" width="300" alt="interface 1">
 
 interface2: 
 
-<img src="assets/interface2.jpg" width="600" alt="interface 2">
+<img src="assets/interface2.jpg" width="300" alt="interface 2">
 
 # Use
 
 ## Step1:
 
-<img src="assets/step1.jpg" width="600" alt="step 1">
+<img src="assets/step1.jpg" width="800" alt="step 1">
 
 ## Step2:
 
-<img src="assets/step2.jpg" width="600" alt="step 2">
+<img src="assets/step2.jpg" width="800" alt="step 2">
 
 ## Step3:
 
-<img src="assets/step3.jpg" width="600" alt="step 3">
+<img src="assets/step3.jpg" width="800" alt="step 3">
 
 ## Step4:
 
-<img src="assets/step4.jpg" width="600" alt="step 4">
+<img src="assets/step4.jpg" width="800" alt="step 4">
 
 ## Step5:
 
-<img src="assets/step5.jpg" width="600" alt="step 5">
+<img src="assets/step5.jpg" width="800" alt="step 5">
